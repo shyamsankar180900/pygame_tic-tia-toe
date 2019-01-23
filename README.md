@@ -1,1 +1,1 @@
-# pygame_tic-tia-toe
+# pygame_tic-tac-toe
